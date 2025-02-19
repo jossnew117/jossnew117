@@ -1,7 +1,8 @@
-<h1> Sistema de registro</h1>
+<h1> Hola! :smiley:</h1>
 
 - Estado del proyecto: En construcción **parte 1**
+! [Vamos!] (assets/cyberpunk-edgerunners-david-martinez.gif) 
 
-Para ejecutar el sistema se debe ejecutar:
+Bienvenid@ a mi github espero podamos compartir conocimientos juntos!!
 
-```npm install react```
+
