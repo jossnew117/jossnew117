@@ -16,10 +16,6 @@ Bienvenid@ a mi github espero podamos compartir conocimientos juntos!.
 ### 🤓 My stats
   <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=jossnew117&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=es&hide_border=false&order=1" height="135" alt="stats graph"  />
- 
- ## 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jossnew117&theme=dark)](https://github.com/jossnew117/github-readme-stats)
-
 <h2> actualmente refuerzo mis conocimientos en: </h2> 
 
 
