@@ -12,5 +12,11 @@ Bienvenid@ a mi github espero podamos compartir conocimientos juntos!.
 - Me encanta la tecnología, el desarrollo personal y el aprendizaje continuo.
 
 - Cursando para data scientist.
+  
+### 🤓 My stats
+  <div class="mystats" align="center">
+    
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jossnew117&theme=dark)](https://github.com/jossnew117/github-readme-stats)
+
 
 
